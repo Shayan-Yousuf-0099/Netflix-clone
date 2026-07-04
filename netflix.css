@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border-style: border-box;
+}
+.navbar{
+    height: 120px;
+    width: 100%;
+    background-color: black;
+}
+.logo{
+    background-image: url(https://images.seeklogo.com/logo-png/25/1/netflix-logo-png_seeklogo-256429.png);
+    background-size: cover;
+}
+.net-logo{
+    height: 100px;
+    width: 150px;
+}
+.logo{
+    height: 100px;
+    width: 150px;
+    background-image: url(Netflix-logo-design-illustration-on-transparent-background-PNG-removebg-preview.png);
+    background-size: cover;
+}
+
